@@ -7,6 +7,6 @@
 #
 #
 
-0.0.0.0 status.ouya.tv
-0.0.0.0 devs.ouya.tv
-0.0.0.0 ouya.tv
+127.0.0.1 status.ouya.tv
+127.0.0.1 devs.ouya.tv
+127.0.0.1 ouya.tv
