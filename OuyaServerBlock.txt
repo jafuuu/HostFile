@@ -1,6 +1,5 @@
 # OUYAServerBlock
 #
-# Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
 # Last Update - Sat, 29 Jun 2019 15:00:00 +0000
 #
 
